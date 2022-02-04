@@ -1,0 +1,12 @@
+{
+    "kerbin": {
+        "id": "kerbin",
+		    "name": "Kerbin",
+        "semimajoraxis": 13599840256,
+        "radius": 600000,
+        "mass": 	5.2915158E22		    
+    },
+    "mun": {
+    
+    }
+}
